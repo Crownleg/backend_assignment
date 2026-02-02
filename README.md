@@ -8,8 +8,9 @@
 -Gasana Gibson Beatus
 -Manzi Cyusa Junior
 
+
 ## Description
-A RESTful API built using Node.js, Express, and MongoDB implementing full CRUD operations.
+a RESTful API built using Node.js, Express, and MongoDB implementing full CRUD operations.
 
 ## Technologies
 - Node.js
